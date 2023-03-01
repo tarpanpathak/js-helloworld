@@ -2,7 +2,7 @@
     "name": "js-helloworld",
     "version": "1.0.0",
     "description": "Hello World in JavaScript",
-    "author": "First Last <tarpanpathak720@gmail.com>",
+    "author": "Tarpan Pathak <tarpanpathak720@gmail.com>",
     "main": "server.js",
     "scripts": {
         "start": "node server.js"
